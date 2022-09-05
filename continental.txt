@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 tinyurl.com
+=======
+Continental AG is company worth of 33 billion.
+>>>>>>> a0dbd80da65ff51108d0599bcc4f0f763c4837d2
